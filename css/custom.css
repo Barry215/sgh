@@ -33,15 +33,14 @@
     /*color: #ffffff;*/
 /*}*/
 
-/*.navbar-background{*/
-     /*background-color:#3B434D;*/
-     /*opacity: 0.9;*/
-     /*border: none;*/
-/*}*/
-
-.marg{
-    margin-top: 50px;
+.navbar-background{
+     opacity: 0.98;
+     border: none;
 }
+
+/*.marg{*/
+    /*margin-top: 50px;*/
+/*}*/
 
 .img_scale{
     width: 100%;
